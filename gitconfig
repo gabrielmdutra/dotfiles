@@ -1,0 +1,6 @@
+[user]
+	name = Gabriel de Moura Dutra
+	email = hi@dutra.sh
+	signingkey = 6FE39603D7E32BBC7A9699E11266C837358716A1
+[commit]
+	gpgsign = 1
